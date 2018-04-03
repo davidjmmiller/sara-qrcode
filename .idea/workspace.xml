@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a1170ef5-a5d2-4e4c-92c1-da20c94a2417" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ctl/about/index.ctl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ctl/index.ctl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ctl/index.ctl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lay/default.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/lay/default.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lay/example.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tpl/about/index.tpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/lay/admin.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/lay/admin.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tpl/user/forgot_password.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tpl/user/forgot_password.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tpl/user/login.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tpl/user/login.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tpl/user/register.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tpl/user/register.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/run.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/run.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,59 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/run.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/tpl/user/login.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/tpl/user/register.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/lay/default.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="admin.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/lay/admin.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="319" column="31" selection-start-line="319" selection-start-column="31" selection-end-line="319" selection-end-column="31" />
-              <folding>
-                <element signature="e#7365#7370#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="133" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ctl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/ctl/index.ctl.php">
+      <file leaf-file-name="profile.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/tpl/admin/user/profile.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" selection-start-line="3" selection-end-line="4" />
+            <state relative-caret-position="4664">
+              <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
             </state>
           </provider>
         </entry>
@@ -84,8 +36,29 @@
       <file leaf-file-name="dashboard.ctl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/administrator/users/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="530" selection-start-line="318" selection-end-line="530" />
+              <folding>
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.ctl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ctl/admin/user/profile.ctl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -93,26 +66,8 @@
       <file leaf-file-name="dashboard.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.ctl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/ctl/admin.ctl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forgot_password.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/tpl/user/forgot_password.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="475">
+              <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -176,6 +131,8 @@
         <option value="$PROJECT_DIR$/public/admin/dashboard/basic.html" />
         <option value="$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php" />
         <option value="$PROJECT_DIR$/core/run.php" />
+        <option value="$PROJECT_DIR$/app/tpl/admin/user/profile.tpl.php" />
+        <option value="$PROJECT_DIR$/app/ctl/admin/user/profile.ctl.php" />
         <option value="$PROJECT_DIR$/app/lay/admin.tpl.php" />
         <option value="$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php" />
       </list>
@@ -198,59 +155,89 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ctl" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ctl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ctl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="lay" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="tpl" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="tpl" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="tpl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="user" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="sarabel20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarabel20" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="administrator" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="sarabel20_qrcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sarabel20_qrcode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="administrator" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="users" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,11 +283,13 @@
       <workItem from="1522652602954" duration="4799000" />
       <workItem from="1522660628217" duration="693000" />
       <workItem from="1522670152218" duration="21398000" />
+      <workItem from="1522705493809" duration="821000" />
+      <workItem from="1522706380543" duration="1030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26890000" />
+    <option name="totallyTimeSpent" value="28741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -334,13 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/run.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/ctl/404.ctl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -348,13 +330,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/tpl/about/index.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tpl/about/index.tpl.php" />
     <entry file="file://$PROJECT_DIR$/public/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -369,13 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/ctl/about/index.ctl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ctl/about/index.ctl.php" />
     <entry file="file://$PROJECT_DIR$/public/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -390,23 +360,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/lib/html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1804">
-          <caret line="82" column="21" lean-forward="true" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/tpl/about/index.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/third_party/PHPMailer/src/POP3.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/html.php" />
+    <entry file="file://$PROJECT_DIR$/app/tpl/about/index.tpl.php" />
     <entry file="file://$PROJECT_DIR$/app/cnf/database.cnf.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -464,13 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/lay/example.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/lay/example.tpl.php" />
     <entry file="file://$PROJECT_DIR$/app/blk/global/footer.blk.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -541,9 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/ctl/user/login.ctl.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/ctl/user/forgot_password.ctl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -609,7 +555,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tpl/user/login.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="440">
           <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
         </state>
       </provider>
@@ -621,30 +567,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/tpl/user/register.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/lay/default.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="704">
           <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/dashboard/basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#7480#7485#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/admin/dashboard/basic.html" />
     <entry file="file://$PROJECT_DIR$/app/ctl/index.ctl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -661,32 +591,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/run.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="1188">
           <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php">
+    <entry file="file://$PROJECT_DIR$/app/tpl/user/register.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/administrator/users/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="530" selection-start-line="318" selection-end-line="530" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tpl/admin/user/profile.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4664">
+          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ctl/admin/user/profile.ctl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/lay/admin.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="319" column="31" selection-start-line="319" selection-start-column="31" selection-end-line="319" selection-end-column="31" />
-          <folding>
-            <element signature="e#7365#7370#0#HTML" expanded="true" />
-          </folding>
+          <caret line="2" lean-forward="true" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+        <state relative-caret-position="475">
+          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
         </state>
       </provider>
     </entry>
