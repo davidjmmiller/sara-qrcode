@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1170ef5-a5d2-4e4c-92c1-da20c94a2417" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/lay/admin.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/lay/admin.tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php" afterDir="false" />
-    </list>
+    <list default="true" id="a1170ef5-a5d2-4e4c-92c1-da20c94a2417" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +14,7 @@
       <file leaf-file-name="admin.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/lay/admin.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="-7">
               <caret line="133" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
@@ -27,8 +23,8 @@
       <file leaf-file-name="profile.tpl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/tpl/admin/user/profile.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4664">
-              <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+            <state relative-caret-position="-7">
+              <caret line="212" selection-start-line="212" selection-end-line="212" />
             </state>
           </provider>
         </entry>
@@ -36,8 +32,8 @@
       <file leaf-file-name="dashboard.ctl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="-7">
+              <caret line="2" selection-start-line="1" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -45,7 +41,7 @@
       <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/administrator/users/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="-7">
               <caret line="530" selection-start-line="318" selection-end-line="530" />
               <folding>
                 <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -57,8 +53,8 @@
       <file leaf-file-name="profile.ctl.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/ctl/admin/user/profile.ctl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="-7">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -66,8 +62,8 @@
       <file leaf-file-name="dashboard.tpl.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+            <state relative-caret-position="2720">
+              <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -242,9 +238,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bamboo-qrcode-laravel" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -284,12 +281,12 @@
       <workItem from="1522660628217" duration="693000" />
       <workItem from="1522670152218" duration="21398000" />
       <workItem from="1522705493809" duration="821000" />
-      <workItem from="1522706380543" duration="1030000" />
+      <workItem from="1522706380543" duration="2328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28741000" />
+    <option name="totallyTimeSpent" value="30039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -605,7 +602,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/administrator/users/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="-7">
           <caret line="530" selection-start-line="318" selection-end-line="530" />
           <folding>
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -615,36 +612,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tpl/admin/user/profile.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4664">
-          <caret line="212" lean-forward="true" selection-start-line="212" selection-end-line="212" />
+        <state relative-caret-position="-7">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/ctl/admin/user/profile.ctl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="-7">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/lay/admin.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="-7">
           <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/ctl/admin/dashboard.ctl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="-7">
+          <caret line="2" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tpl/admin/dashboard.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+        <state relative-caret-position="2720">
+          <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
         </state>
       </provider>
     </entry>
